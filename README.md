@@ -1,3 +1,5 @@
+![alt text](https://github.com/bodo0909/projectile_motion/edit/master/images/diagram.pdf)
+
 # projectile_motion
 
 **Prerequisites**:
