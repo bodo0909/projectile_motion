@@ -1,5 +1,6 @@
 # projectile_motion
 
-*Prerequisites*:
+**Prerequisites**:
+
 *Install Python module dependencies: pip install -r requirements.txt
 
