@@ -1,5 +1,7 @@
 # projectile_motion
 
+![alt text](images/diagram.png)
+
 **Prerequisites**:
 * Install Python module dependencies: pip install -r requirements.txt
 
